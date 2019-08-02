@@ -59,7 +59,6 @@
     <Compile Include="SelfServiceTasks.cs" />
     <Compile Include="TimingTask.cs" />
     <Compile Include="ValidateIntegTests.cs" />
-    <Compile Include="XamarinComponent.cs" />
     <Compile Include="FxCop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
