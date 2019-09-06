@@ -92,13 +92,6 @@ namespace ServiceClientGenerator
             Versions = Path.Combine("..", "..", "..", "ServiceModels", "_sdk-versions.json");
             ModelsFolder = Path.Combine("..", "..", "..", "ServiceModels");
             SdkRootFolder = Path.Combine("..", "..", "..", "..", "sdk");
-<<<<<<< HEAD
-            SamplesRootFolder = Path.Combine("..", "..", "..", "..", "aws-sdk-net-samples");
-=======
-            //TODO: fix for OSX environments
-            UnityPath = Path.Combine("C:\\", "Program Files", "Unity");
->>>>>>> fix: Remove all references to xamarin components.
-
             ServiceModels = string.Empty; // process all services
             CompileCustomizations = true;
             Clean = false;
